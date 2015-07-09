@@ -36,7 +36,7 @@ Some features:
 
 = Where to get support? =
 
-Contact developer
+Ask in wordpress forum, but you can contact me directly (recommended).
 
 == Screenshots ==
 
@@ -44,6 +44,9 @@ Contact developer
 2. Facebook Comments System back end look
 
 == Changelog ==
+
+= 1.1 =
+* Updated admin panel interface
 
 = 1.0 =
 * Initial release.
